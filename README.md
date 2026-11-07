@@ -11,11 +11,11 @@
 
 | 随杯卡·竖版 | 随杯卡·横版 | 导入图片自动抠图 |
 | --- | --- | --- |
-| ![随杯卡竖版](screenshots/preview/ios-card-portrait-a6.jpg) | ![随杯卡横版](screenshots/preview/ios-card-landscape-a6.jpg) | ![抠图](screenshots/preview/ios-card-cutout.jpg) |
+| ![随杯卡竖版](assets/readme/card-portrait.jpg) | ![随杯卡横版](assets/readme/card-landscape.jpg) | ![抠图](assets/readme/ai-card.jpg) |
 
-| 编辑器·字号面板 | Android 深色导航 |
-| --- | --- |
-| ![编辑器](screenshots/preview/ios-editor-font-size.jpg) | ![深色导航](screenshots/preview/android-dark-home.jpg) |
+| 编辑器·字号面板 | 关于（开发者/B站） | Android 深色导航 |
+| --- | --- | --- |
+| ![编辑器](assets/readme/editor.jpg) | ![关于](assets/readme/about.jpg) | ![深色导航](assets/readme/dark-nav.jpg) |
 
 ## 目录结构
 
@@ -24,7 +24,7 @@ app/                  Android 源码（Kotlin + Compose）
 gradle/ gradlew ...   Android Gradle 工程
 ios/                  iOS 工程（BeanBook.xcodeproj / SwiftUI 源码 / scripts）
 docs/                 1.2 发行说明、随杯卡设计规范、编辑器 UI 规范
-screenshots/preview/  压缩预览图
+assets/readme/        README 预览图
 忆杯手记-v1.2-发行说明.md
 ```
 
