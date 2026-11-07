@@ -9,9 +9,9 @@
 
 ## 预览
 
-| 随杯卡·竖版 | 随杯卡·横版 | 导入图片自动抠图 |
-| --- | --- | --- |
-| ![随杯卡竖版](assets/readme/card-portrait.jpg) | ![随杯卡横版](assets/readme/card-landscape.jpg) | ![抠图](assets/readme/ai-card.jpg) |
+| 随杯卡|
+| --- |
+| ![抠图](assets/readme/ai-card.jpg) |
 
 | 编辑器·字号面板 | 关于（开发者/B站） | Android 深色导航 |
 | --- | --- | --- |
