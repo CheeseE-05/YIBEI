@@ -1,0 +1,9 @@
+﻿U^2-Net / U^2-Netp
+Copyright (c) 2020, Xuebin Qin and contributors
+Licensed under the Apache License, Version 2.0.
+Model converted to ONNX by the open-source rembg / u2net-onnx community.
+This app runs the model entirely on-device for subject cutout.
+
+Apple Vision / SF Symbols
+The iOS build uses Apple's Vision foreground-instance mask API (iOS 17+) and SF Symbols.
+These are system frameworks and assets provided by Apple, not bundled third-party code.
